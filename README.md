@@ -1,1 +1,1 @@
-*This is my first java web project;* 
+*A demo project with web* 
